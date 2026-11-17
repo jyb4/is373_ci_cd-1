@@ -4,7 +4,7 @@ Source index for **3. Group content system + problem research**. Continue the sa
 
 - [Canonical editable group record](https://chatgpt.com/space/page_d3ef2e17c7f48191ab04cb20e265efd4)
 - [Readable HTML mirror](https://y-just-y.github.io/is373_ci_cd/group-plan.html) · [HTML source](../group-plan.html)
-- [Group Plan repository folder](https://github.com/Y-Just-Y/is373_ci_cd/tree/main/group-plan)
+- [Group Plan repository folder](https://github.com/jyb4/is373_ci_cd-1/tree/main/group-plan)
 
 ## Proposed workflow
 
